@@ -7,7 +7,7 @@
 
 # Description
 
-[This](https://github.com/jjuanrivvera99/laravel-nginx-mysql-docker) is a laravel environment with docker-compose.
+[This](https://github.com/carlos0205/mylaravel.git) is a laravel environment with docker-compose.
 
 ## How to run this project
 
